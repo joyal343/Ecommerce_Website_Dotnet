@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="CatalogService.Application/CatalogService.Application.csproj" Id="3f3b0740-7330-4faa-b165-0831c1234b7d" />
+  <Project Path="CatalogService.Domain/CatalogService.Domain.csproj" Id="db511a03-04ab-40da-8305-611f8b04cc44" />
+  <Project Path="CatalogService.Infrastructure/CatalogService.Infrastructure.csproj" Id="706ddff4-9fcb-43ca-a9c0-cfc06405784a" />
   <Project Path="CatalogServiceAPI/CatalogServiceAPI.csproj" />
 </Solution>
